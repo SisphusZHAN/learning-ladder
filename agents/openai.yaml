@@ -1,0 +1,4 @@
+interface:
+  display_name: "学习阶梯教练"
+  short_description: "按时间预算搭建学习阶梯，精选资源，逐题考核并用复述检验理解"
+  default_prompt: "使用 $learning-ladder，我想用 6 小时学习「XX」。请帮我安排学习计划，并在学习后逐题考核和指导复述。"
